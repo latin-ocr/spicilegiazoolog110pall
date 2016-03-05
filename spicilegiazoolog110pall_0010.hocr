@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./spicilegiazoolog110pall_0010.png"; bbox 0 0 2084 2681; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 589 819 1641 879">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 589 819 1641 879">
+     <span class='ocr_line' id='line_1_1' title="bbox 589 819 1641 879; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 589 823 708 868; x_wconf 80' lang='lat' dir='ltr'><em>Nota</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 737 821 843 879; x_wconf 79' lang='lat' dir='ltr'><em>leges</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 873 821 1091 878; x_wconf 68' lang='lat' dir='ltr'><em>quaedam,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1108 819 1190 876; x_wconf 81' lang='lat' dir='ltr'><em>sed</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1220 819 1320 863; x_wconf 83' lang='lat' dir='ltr'><em>lima</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1347 820 1440 878; x_wconf 70' lang='lat' dir='ltr'><em>wfiz</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1471 826 1641 875; x_wconf 77' lang='lat' dir='ltr'><em>recenti,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 591 922 1636 981">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 591 922 1636 981">
+     <span class='ocr_line' id='line_1_2' title="bbox 591 922 1636 981; baseline 0.002 -15"><span class='ocrx_word' id='word_1_8' title='bbox 591 924 694 969; x_wconf 77' lang='lat' dir='ltr'><em>Pars</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 722 937 830 967; x_wconf 76' lang='lat' dir='ltr'><em>nova</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 859 924 990 978; x_wconf 73' lang='lat' dir='ltr'><em>major</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1016 924 1116 966; x_wconf 80' lang='lat' dir='ltr'><em>erit:</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1145 922 1305 977; x_wconf 65' lang='lat' dir='ltr'><em>Ledi‘or,</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1338 925 1502 981; x_wconf 77' lang='lat' dir='ltr'><em>utrique</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1527 924 1636 975; x_wconf 77' lang='lat' dir='ltr'><em>fave.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1491 1028 1707 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1491 1028 1707 1065">
+     <span class='ocr_line' id='line_1_3' title="bbox 1491 1028 1707 1065; baseline 0.009 -3"><span class='ocrx_word' id='word_1_15' title='bbox 1491 1028 1707 1065; x_wconf 65' lang='lat' dir='ltr'><em>Mmzrmt.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

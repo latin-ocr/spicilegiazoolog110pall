@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./spicilegiazoolog110pall_0239.png"; bbox 0 0 1998 2701; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 66 182 1862 2515">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 66 182 1862 2515">
+     <span class='ocr_line' id='line_1_1' title="bbox 66 182 1862 2515; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 66 182 1862 2515; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 2458 530 2492">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 2458 530 2492">
+     <span class='ocr_line' id='line_1_2' title="bbox 193 2461 501 2474; baseline 0.013 -4"><span class='ocrx_word' id='word_1_2' title='bbox 193 2461 203 2470; x_wconf 66' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_3' title='bbox 355 2462 361 2469; x_wconf 62' lang='lat'><em>⁵</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 499 2472 501 2474; x_wconf 97' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 116 2458 530 2492; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 116 2465 166 2490; x_wconf 30' lang='lat' dir='ltr'><em>Aa</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 175 2468 193 2490; x_wconf 51' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_7' title='bbox 201 2460 337 2491; x_wconf 57' lang='lat' dir='ltr'><em>(stournalz</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 373 2462 410 2492; x_wconf 53' lang='lat' dir='ltr'><em>(lv</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 422 2458 480 2491; x_wconf 54' lang='lat'><em>«1127</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 486 2479 530 2492; x_wconf 46' lang='lat' dir='ltr'><em>*ab</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
